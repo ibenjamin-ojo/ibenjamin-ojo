@@ -8,9 +8,8 @@
 - 📈 Python programmer with passion for data analysis, and it application to supply chain management. 
 - 🚩 My goal is to be a machine learning engineer with special on building supply chain management product. 
 - 💻 I finished Udacity's [Data Analyst Nanodegree](https://graduation.udacity.com/confirm/LPVKRAW5)
-- 🚀 Currently enrolled in DataClub's [ML-Zoomcamp-Course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- 🚀 Currently enrolled in DataTalkClub's [ML-Zoomcamp-Course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - 📫 Reach me @ <a href="https://www.linkedin.com/in/ojo-a-benjamin/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-- 
 
 <div align=center>
     <a href="https://github.com/tharcyla">
