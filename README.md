@@ -8,12 +8,11 @@
 - 📈 Python programmer with passion for data analysis, and it's application to supply chain management. 
 - 🚩 My goal is to be a machine learning engineer/Data Science with specialization on building supply chain management product. 
 - 💻 I completed the Udacity's [Data Analyst Nanodegree](https://confirm.udacity.com/HHQLKCNG)
-- 🚀 Currently enrolled in DataTalkClub's [ML-Zoomcamp-Course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - 📫 Reach me @ <a href="https://www.linkedin.com/in/ojo-a-benjamin/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
 <div align=center>
-    <a href="https://github.com/tharcyla">
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=ojoadekunle&show_icons=true&count_private=true&theme=tokyonight"/>
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoadekunle&layout=compact&theme=tokyonight"/>
+    <a href="https://github.com/benjamin-ojo">
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-ojo&show_icons=true&count_private=true&theme=tokyonight"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-ojo&layout=compact&theme=tokyonight"/>
     </a>
 </div>
