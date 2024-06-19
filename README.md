@@ -11,8 +11,8 @@
 - 📫 Reach me @ <a href="https://www.linkedin.com/in/ojo-a-benjamin/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
 <div align=center>
-    <a href="https://github.com/benjamin-ojo">
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-ojo&show_icons=true&count_private=true&theme=tokyonight"/>
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-ojo&layout=compact&theme=tokyonight"/>
+    <a href="https://github.com/ibenjamin-ojo">
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=ibenjamin-ojo&show_icons=true&count_private=true&theme=tokyonight"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibenjamin-ojo&layout=compact&theme=tokyonight"/>
     </a>
 </div>
