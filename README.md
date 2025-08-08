@@ -5,7 +5,7 @@
 ### 🎯 About me:
 - 🔍 AML Analytics Specialist with 5+ years of experience in anti-money laundering, terrorist financing (TF) risk assessment, and regulatory compliance, leveraging Python, SQL, and R to detect suspicious activity and enhance risk frameworks.
 
--- 📊 Passionate about using data science and machine learning to strengthen ML/TF and sanctions risk assessment methodologies, ensuring compliance with PCMLTFA, FINTRAC, OSFI E-23, and FATF standards.
+- 📊 Passionate about using data science and machine learning to strengthen ML/TF and sanctions risk assessment methodologies, ensuring compliance with PCMLTFA, FINTRAC, OSFI E-23, and FATF standards.
 
 - 🛠️ Skilled in transaction monitoring system tuning (Actimize, Verafin, Amlock), screening tools (World-Check, LexisNexis, DDIQ), and data visualization (Power BI, Tableau) for executive-level reporting.
 
