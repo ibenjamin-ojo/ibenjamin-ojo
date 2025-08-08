@@ -3,12 +3,18 @@
 </div>
 
 ### 🎯 About me:
+- 📊 Data-driven Python programmer with a strong passion for extracting insights through data analysis and applying them to solve complex supply chain management challenges.
 
+- 🚀 Currently focused on becoming a Machine Learning Engineer / Data Scientist, with a specialization in designing predictive models and optimization tools for supply chain efficiency.
 
-- 📈 Python programmer with passion for data analysis, and it's application to supply chain management. 
-- 🚩 My goal is to be a machine learning engineer/Data Science with specialization on building supply chain management product. 
-- 💻 I completed the Udacity's [Data Analyst Nanodegree](https://confirm.udacity.com/HHQLKCNG)
-- 📫 Reach me @ <a href="https://www.linkedin.com/in/ojo-a-benjamin/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+- 📈 Experienced in working with Python, Pandas, NumPy, SQL, and data visualization libraries to transform raw data into actionable intelligence.
+
+- 🛠️ Skilled at problem-solving, automation, and building data-driven products that improve decision-making and operational performance.
+
+- 🎓 Proud graduate of Udacity’s Data Analyst Nanodegree, where I developed projects involving data wrangling, exploratory data analysis, and statistical modeling.
+
+- 💡 Always exploring machine learning applications, real-world data projects, and collaborative opportunities that push the boundaries of innovation.
+/></a>
 
 <div align=center>
     <a href="https://github.com/ibenjamin-ojo">
