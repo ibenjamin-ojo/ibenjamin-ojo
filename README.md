@@ -3,17 +3,17 @@
 </div>
 
 ### 🎯 About me:
-- 📊 Data-driven Python programmer with a strong passion for extracting insights through data analysis and applying them to solve complex supply chain management challenges.
+- 🔍 AML Analytics Specialist with 5+ years of experience in anti-money laundering, terrorist financing (TF) risk assessment, and regulatory compliance, leveraging Python, SQL, and R to detect suspicious activity and enhance risk frameworks.
 
-- 🚀 Currently focused on becoming a Machine Learning Engineer / Data Scientist, with a specialization in designing predictive models and optimization tools for supply chain efficiency.
+-- 📊 Passionate about using data science and machine learning to strengthen ML/TF and sanctions risk assessment methodologies, ensuring compliance with PCMLTFA, FINTRAC, OSFI E-23, and FATF standards.
 
-- 📈 Experienced in working with Python, Pandas, NumPy, SQL, and data visualization libraries to transform raw data into actionable intelligence.
+- 🛠️ Skilled in transaction monitoring system tuning (Actimize, Verafin, Amlock), screening tools (World-Check, LexisNexis, DDIQ), and data visualization (Power BI, Tableau) for executive-level reporting.
 
-- 🛠️ Skilled at problem-solving, automation, and building data-driven products that improve decision-making and operational performance.
+- 📈 Adept at developing, implementing, and benchmarking risk rating methodologies across clients, products, geographies, and channels to align with global best practices.
 
-- 🎓 Proud graduate of Udacity’s Data Analyst Nanodegree, where I developed projects involving data wrangling, exploratory data analysis, and statistical modeling.
+- 🎓 Holding a Master’s in Economics and completing the Certified Anti-Money Laundering Specialist (CAMS) credential, with strong cross-functional collaboration and regulatory advisory experience.
 
-- 💡 Always exploring machine learning applications, real-world data projects, and collaborative opportunities that push the boundaries of innovation.
+- 💡 Driven to merge data analytics expertise with AML/ATF compliance to protect financial institutions and enable smarter, risk-aware decision-making.
 /></a>
 
 <div align=center>
